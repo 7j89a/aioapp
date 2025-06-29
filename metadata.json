@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Chat",
+  "description": "A secure, intelligent chat application powered by Google's Gemini AI. Features user authentication with Supabase, a stunning 'Aurora' visual theme, and a seamless, streaming chat experience.",
+  "requestFramePermissions": []
+}
